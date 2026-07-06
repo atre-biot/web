@@ -44,7 +44,7 @@ Vendredi 9h à 10h
 
 ## A fournir à l'inscription {#inscription}
 
-- <a href="Fiche_Adhesion_Atre_25-26.pdf">Fiche de renseignements</a>
+- <a href="Fiche_Adhesion_Atre_26-27.pdf">Fiche de renseignements</a>
 - Le certificat médical n'est plus obligatoire mais conseillé (loi n° 2022-296 du 2 mars 2022)
 
 ## Tenues conseillées
